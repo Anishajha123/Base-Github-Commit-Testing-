@@ -4,3 +4,4 @@ Base github commit one
 Initialize repository with README
 Add basic project description
 Update README with introduction
+Improve documentation structure
