@@ -14,3 +14,4 @@ Refine documentation language
 Add setup instructions
 Improve file organization
 Update installation guide
+Add example usage section
