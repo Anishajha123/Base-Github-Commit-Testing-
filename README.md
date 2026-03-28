@@ -27,3 +27,4 @@ Add additional documentation
 Refine code comments
 Improve overall readability
 Update documentation details
+Add notes for developers
