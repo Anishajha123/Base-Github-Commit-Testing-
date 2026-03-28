@@ -16,3 +16,4 @@ Improve file organization
 Update installation guide
 Add example usage section
 Improve markdown formatting
+Add comments for clarity
