@@ -13,3 +13,4 @@ Improve code readability
 Refine documentation language
 Add setup instructions
 Improve file organization
+Update installation guide
