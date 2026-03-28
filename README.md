@@ -11,3 +11,4 @@ Update project overview
 Add development notes
 Improve code readability
 Refine documentation language
+Add setup instructions
