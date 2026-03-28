@@ -18,3 +18,4 @@ Add example usage section
 Improve markdown formatting
 Add comments for clarity
 Refactor code structure
+Optimize variable naming
