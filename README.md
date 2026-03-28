@@ -26,3 +26,4 @@ Improve README consistency
 Add additional documentation
 Refine code comments
 Improve overall readability
+Update documentation details
