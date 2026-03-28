@@ -12,3 +12,4 @@ Add development notes
 Improve code readability
 Refine documentation language
 Add setup instructions
+Improve file organization
