@@ -5,3 +5,4 @@ Initialize repository with README
 Add basic project description
 Update README with introduction
 Improve documentation structure
+Add usage instructions
