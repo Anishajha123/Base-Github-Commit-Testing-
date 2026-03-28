@@ -9,3 +9,4 @@ Add usage instructions
 Enhance README formatting
 Update project overview
 Add development notes
+Improve code readability
