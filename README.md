@@ -31,3 +31,4 @@ Add notes for developers
 Improve formatting consistency
 Refactor minor code sections
 Improve project documentation flow
+Add additional usage examples
