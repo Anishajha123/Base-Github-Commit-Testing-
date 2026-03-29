@@ -62,3 +62,4 @@ Improve readability of content
 Add supporting information section
 Refine code documentation
 Improve formatting standards
+Add additional developer notes
