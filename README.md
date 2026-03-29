@@ -34,3 +34,4 @@ Improve project documentation flow
 Add additional usage examples
 Enhance README readability
 Update developer notes section
+Improve formatting and spacing
