@@ -58,3 +58,4 @@ Improve documentation consistency
 Add more descriptive comments
 Enhance clarity of instructions
 Update project structure details
+Improve readability of content
