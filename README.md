@@ -66,3 +66,4 @@ Add additional developer notes
 Enhance project explanation
 Improve onboarding instructions
 Add clarification for usage steps
+Refine documentation hierarchy
