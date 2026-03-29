@@ -55,3 +55,4 @@ Add summary of recent updates
 Refine project explanation details
 Final documentation cleanup
 Improve documentation consistency
+Add more descriptive comments
