@@ -37,3 +37,4 @@ Update developer notes section
 Improve formatting and spacing
 Add clarification to instructions
 Refine documentation wording
+Improve code structure clarity
