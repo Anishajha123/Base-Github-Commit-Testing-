@@ -64,3 +64,4 @@ Refine code documentation
 Improve formatting standards
 Add additional developer notes
 Enhance project explanation
+Improve onboarding instructions
