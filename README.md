@@ -67,3 +67,4 @@ Enhance project explanation
 Improve onboarding instructions
 Add clarification for usage steps
 Refine documentation hierarchy
+Improve navigation within README
