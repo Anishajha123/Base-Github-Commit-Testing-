@@ -52,3 +52,4 @@ Add final touches to documentation
 Enhance structure of README content
 Improve guidance for new users
 Add summary of recent updates
+Refine project explanation details
