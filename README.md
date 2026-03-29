@@ -70,3 +70,4 @@ Refine documentation hierarchy
 Improve navigation within README
 Add minor refinements to content
 Enhance code readability standards
+Improve explanation of features
